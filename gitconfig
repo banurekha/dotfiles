@@ -1,6 +1,6 @@
 [user]
-  name  = Dan Brubaker Horst
-  email = dan.brubaker.horst@gmail.com
+  name  = Banurekha
+  email = banurekha.l@gmail.com
 [alias]
   ci = commit -v -a
   st = status
@@ -35,6 +35,7 @@
   untracked = magenta
 [core]
   excludesfile = /opt/boxen/config/git/gitignore
+	editor = subl -n -w
 [credential]
   helper = /opt/boxen/bin/boxen-git-credential
 [hub]
