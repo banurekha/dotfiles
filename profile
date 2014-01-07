@@ -29,7 +29,7 @@ function rg {
 }
 
 source ~/.bash_aliases
-
+source ~/.git_aliases
 source ~/bin/git-completion.sh
 source ~/bin/git-prompt.sh
 
